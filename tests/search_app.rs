@@ -1,4 +1,4 @@
-use steam_rs::steam_api::search_app::SteamGame;
+use vectum_lib::steam_api::search_app::SteamGame;
 
 fn print_attributes(app: &SteamGame) {
     println!("App ID: {}", app.appid.unwrap_or_default());

@@ -1,3 +1,3 @@
-Vectum lib
+# Vectum lib
 
-import iml with RustRover and use run configurations
+Aids [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) with contacting the Steam API.
