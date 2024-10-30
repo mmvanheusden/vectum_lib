@@ -1,8 +1,8 @@
 [package]
 name = "vectum_lib"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
-license-file = "LICENSE"
+license = "AGPL-3.0-only"
 description = "Aids SteamDepotDownloaderGUI into contacting the Steam API"
 homepage = "https://depotdownloader.00pium.net"
 repository = "https://github.com/mmvanheusden/vectum_lib"
